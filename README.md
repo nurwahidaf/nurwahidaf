@@ -19,10 +19,10 @@ About me
 --
 I'm Nurwahida Fitriani, a student at STT Terpadu Nurul Fikri.
 
-Let's connect! ☕
+Let's connect!
 --
 ✉️ [Email](fnurwahida@gmail.com)  
-🔗 [Linkedin](https://www.linkedin.com/in/nurwahida-fitriani-272ba2221/)
+🔗 [LinkedIn](https://www.linkedin.com/in/nurwahida-fitriani-272ba2221/)
 
 <p align="left">
 <a href="https://github.com/nurwahidaf">
