@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi, I'm Fi 👋
 
 <!--
 **nurwahidaf/nurwahidaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+About me
+--
+I'm Nurwahida Fitriani, a student at STT Terpadu Nurul Fikri.
