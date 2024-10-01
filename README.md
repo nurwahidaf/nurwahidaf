@@ -1,4 +1,4 @@
-## Hi, I'm Fi 👋
+## Hello, welcome to my GitHub profile! 👋
 
 I'm Nurwahida Fitriani, a student at STT Terpadu Nurul Fikri.
 <br>
