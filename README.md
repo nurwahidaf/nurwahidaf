@@ -1,6 +1,6 @@
 ## Hello, welcome to my GitHub profile! 👋
 
-I'm Nurwahida Fitriani, a student at STT Terpadu Nurul Fikri.
+I'm Nurwahida Fitriani, Informatic Engineering graduated from STT Terpadu Nurul Fikri.
 <br>
 <br>
 
