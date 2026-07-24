@@ -1,12 +1,12 @@
 ## Hello, welcome to my GitHub profile! 👋
 
-I'm Nurwahida Fitriani, Informatic Engineering graduated from STT Terpadu Nurul Fikri.
+I'm Nurwahida Fitriani, Informatics Engineering Graduate with professional experience in administrative support, finance administration, operational support, and web development.
 <br>
 <br>
 
 ## Let's connect!
 ✉️ [Email](fnurwahida@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/nurwahida-fitriani-272ba2221/)
+🔗 [LinkedIn](https://www.linkedin.com/in/nurwahidafitriani)
 <br>
 <br>
 
